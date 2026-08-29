@@ -1,6 +1,6 @@
 {
   "artboards": [
-    { "file": "Main.dc.html", "x": 0, "y": 0, "w": 794, "h": 1160, "print": "fixed" }
+    { "file": "Main.dc.html", "x": 0, "y": 0, "w": 794, "h": 1270, "print": "fixed" }
   ],
   "launch": { "view": "focused", "file": "Main.dc.html" }
 }
